@@ -1,0 +1,53 @@
+* {
+  font-family: "Montserrat", "Font Awesome 5 Free", Geneva, sans-serif;
+}
+
+.brad-10 {
+  border-radius: 10px;
+}
+
+.brad-5 {
+  border-radius: 5px;
+}
+
+.carousel .carousel-item img {
+  width: 100%;
+  max-height: 700px;
+  object-fit: cover;
+  object-position: 0 80%;
+}
+
+.carousel .carousel-item-large img {
+  max-height: 800px;
+}
+
+#contact-bar {
+  background-color: rgb(185, 199, 209);
+}
+
+.btn p {
+  font-weight: 600;
+}
+
+.map {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  height: 300px;
+}
+
+.map-large {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  height: 500px;
+}
+
+.map iframe {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 10px;
+}
+
+
